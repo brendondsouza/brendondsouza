@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Brendon D'Souza</h1>
 <h3 align="center">A full stack software engineer from Raleigh, NC!</h3>
 
-<p align="left"> <a href="https://twitter.com/goa2usa" target="blank"><img src="https://img.shields.io/twitter/follow/goa2usa?logo=twitter&style=for-the-badge" alt="goa2usa" /></a> </p>
+<p align="center"> <a href="https://twitter.com/goa2usa" target="blank"><img src="https://img.shields.io/twitter/follow/goa2usa?logo=twitter&style=for-the-badge" alt="goa2usa" /></a> </p>
 
 - ⚡ Fun fact **I'm a furniture flipper and I survived in the US just by flipping furniture out of my truck!**
 
