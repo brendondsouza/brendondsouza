@@ -1,6 +1,7 @@
 <img src="assets/linkedinBanner_Brendon.jpg" width="100%">
 
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=2d7e5e&lines=software+engineer+by+day;furniture+flipper+by+night"(https://git.io/typing-svg) </p>
+
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=software+engineer+by+day;furniture+flipper+by+night" </p> 
 
 <p align="center">
   <a href="https://brendondsouza.com" target="_blank">
@@ -23,7 +24,7 @@
  <h1 align="center">Hi there👋, I'm Brendon!</h1>
 <h3 align="center">A full stack software engineer from Raleigh, NC.</h3>
 
-<p>
+<p align="center">
 On any given day you can find me donning two hats: I'm a software engineer by day and a furniture flipper by night!
 
 As a software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving using technology and creating products from scratch and this combination led me to pursue a career in software engineering. 
