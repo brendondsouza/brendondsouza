@@ -96,7 +96,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
         <p>Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">That's What She Said</h3>
+      <h3 align="center">"That's What She Said"</h3>
         <br />
         <a target="_blank" href="https://thatswhatshesaid.netlify.app">
           <img src="assets/office.gif" width="100%" alt="the office app"/>
