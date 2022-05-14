@@ -1,4 +1,4 @@
-<img src="linkedinBanner_Brendon.jpeg" width="100%">
+<img src="assets/linkedinBanner_Brendon.jpg" width="100%">
 
 <p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=2d7e5e&lines=software+engineer+by+day;furniture+flipper+by+night"(https://git.io/typing-svg) </p>
 
@@ -43,7 +43,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
       <h3 align="center">Jeopard-ish!</h3>
         <br />
         <a target="_blank" href="https://jeopard-ish.netlify.app">
-            <img src="jeopardy.gif" width="100%" alt="Travel App"/>
+            <img src="assets/jeopardy.gif" width="100%" alt="Jeopardy game"/>
         </a>
         <br />
         <p align="center">
@@ -61,7 +61,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
       <h3 align="center">NASA's Astronomy Picture of the Day</h3>
         <br />
       <a target="_blank" href="https://see-space.netlify.app">
-            <img src="nasa.gif" width="100%"  alt="Rigley 2"/>
+            <img src="assets/nasa.gif" width="100%"  alt="NASA's Astronomy"/>
         </a>
         <br />
         <p align="center">
@@ -73,7 +73,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"</p>
+        <p>View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD".</p>
     </td>
   </tr>
   
@@ -82,7 +82,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
       <h3 align="center">BrendonDsouza.com</h3>
       <br />
         <a target="_blank" href="https://brendondsouza.com">
-          <img src="portfolio.gif" width="100%" alt="Portfolio"/>
+          <img src="assets/portfolio.gif" width="100%" alt="my portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -99,7 +99,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
       <h3 align="center">That's What She Said</h3>
         <br />
         <a target="_blank" href="https://thatswhatshesaid.netlify.app">
-          <img src="ezgif.com-gif-maker.gif" width="100%" alt="Matching Cards"/>
+          <img src="assets/office.gif" width="100%" alt="the office app"/>
         </a>
         <br />
         <p align="center">
