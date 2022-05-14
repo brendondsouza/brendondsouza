@@ -21,7 +21,7 @@
 </p>
 
  <h1 align="center">Hi there👋, I'm Brendon!</h1>
-<h3 align="center">A full stack software engineer from Raleigh, NC!</h3>
+<h3 align="center">A full stack software engineer from Raleigh, NC.</h3>
 
 <p>
 On any given day you can find me donning two hats: I'm a software engineer by day and a furniture flipper by night!
