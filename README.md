@@ -36,7 +36,26 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
+  
   <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">U.S. Citizenship Test API</h3>
+        <br />
+        <a target="_blank" href="https://american-citizenship-test.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/101214978/177057652-c6cd5942-b8b0-4d51-948b-a84079286ee0.jpeg" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/brendondsouza/US-citizenship-test-api" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://american-citizenship-test.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>An API built from scratch to help other dreamers like me get thier U.S. Citizenship!</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">React Grocery Buddy</h3>
       <br />
@@ -54,6 +73,9 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
       </p>
         <p>Your grocery buddy which can help make and save your shopping lists!</p>
     </td>
+
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">React Meme Generator</h3>
         <br />
@@ -71,27 +93,6 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
   </a>
       </p>
         <p>Generate your own memes using this meme generator featuring the 100 most popular memes!</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Jeopard-ish!</h3>
-        <br />
-        <a target="_blank" href="https://jeopard-ish.netlify.app">
-            <img src="assets/jeopardy.gif" width="100%" alt="Jeopardy game"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/brendondsouza/Jeopardy-Game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://jeopard-ish.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>Play a game of Jeopardy using this interactive game board, almost like the real deal!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Full Stack Interview Prep</h3>
