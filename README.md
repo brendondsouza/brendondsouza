@@ -40,7 +40,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
     <td width="50%" valign="top">
       <h3 align="center">React Grocery Buddy</h3>
       <br />
-        <a target="_blank" href="https://brendondsouza.com">
+        <a target="_blank" href="https://yourgrocerybuddy.netlify.app/">
           <img src="https://github.com/brendondsouza/Grocery-buddy-react/blob/main/grocery-buddy.gif" width="100%" alt="my portfolio"/>
         </a>
       <br />
