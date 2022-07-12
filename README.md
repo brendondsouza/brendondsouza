@@ -16,9 +16,6 @@
   <a href="https://angel.co/u/brendondsouza" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
 </p>
 
  <h1 align="center">Hi there👋, I'm Brendon!</h1>
@@ -41,6 +38,44 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">React Grocery Buddy</h3>
+      <br />
+        <a target="_blank" href="https://brendondsouza.com">
+          <img src="https://github.com/brendondsouza/Grocery-buddy-react/blob/main/grocery-buddy.gif" width="100%" alt="my portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/brendondsouza/Grocery-buddy-react" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://yourgrocerybuddy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Your grocery buddy which can help make and save your shopping lists!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">React Meme Generator</h3>
+        <br />
+        <a target="_blank" href="https://react-meme-gen-app.netlify.app/">
+          <img src="https://github.com/brendondsouza/React-meme-generator/blob/main/meme-generator.gif" width="100%" alt="the office app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/brendondsouza/React-meme-generator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://react-meme-gen-app.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Generate your own memes using this meme generator featuring the 100 most popular memes!</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Jeopard-ish!</h3>
         <br />
         <a target="_blank" href="https://jeopard-ish.netlify.app">
@@ -59,7 +94,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
         <p>Play a game of Jeopardy using this interactive game board, almost like the real deal!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Full Stack Interview Questions App</h3>
+      <h3 align="center">Full Stack Interview Prep</h3>
         <br />
         <a target="_blank" href="https://full-stack-interview-prep.up.railway.app/">
           <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/fullStackInterviewQuestions.gif?raw=true" width="100%" alt="app homepage"/>
@@ -74,45 +109,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>A Full Stack flash card application for interview questions.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">BrendonDsouza.com</h3>
-      <br />
-        <a target="_blank" href="https://brendondsouza.com">
-          <img src="assets/portfolio.gif" width="100%" alt="my portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/brendondsouza/my-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://brendondsouza.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">"That's What She Said"</h3>
-        <br />
-        <a target="_blank" href="https://thatswhatshesaid.netlify.app">
-          <img src="assets/office.gif" width="100%" alt="the office app"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/brendondsouza/The-Office" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://thatswhatshesaid.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>View quotes from your favorite character from The Office (or click the random button!).</p>
+        <p>A Full Stack flash card application for behavioral and technical interview questions!</p>
     </td>
   </tr>
 </table>
@@ -152,9 +149,6 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
   </a>
   <a href="https://angel.co/u/brendondsouza" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
