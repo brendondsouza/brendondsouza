@@ -59,22 +59,22 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
         <p>Play a game of Jeopardy using this interactive game board, almost like the real deal!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA's Astronomy Picture of the Day</h3>
+      <h3 align="center">Full Stack Interview Questions App</h3>
         <br />
-      <a target="_blank" href="https://see-space.netlify.app">
-            <img src="assets/nasa.gif" width="100%"  alt="NASA's Astronomy"/>
+        <a target="_blank" href="https://full-stack-interview-prep.up.railway.app/">
+          <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/fullStackInterviewQuestions.gif?raw=true" width="100%" alt="app homepage"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/brendondsouza/nasa-apod" target="_blank">
+  <a href="https://github.com/brendondsouza/interview-question-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://see-space.netlify.app" target="_blank">
+  <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random picture".</p>
+        <p>A Full Stack flash card application for interview questions.</p>
     </td>
   </tr>
   
