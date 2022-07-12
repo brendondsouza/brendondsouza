@@ -95,7 +95,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
         <p>Generate your own memes using this meme generator featuring the 100 most popular memes!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Full Stack Interview Prep</h3>
+      <h3 align="center">Full Stack Interview Prep API</h3>
         <br />
         <a target="_blank" href="https://full-stack-interview-prep.up.railway.app/">
           <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/fullStackInterviewQuestions.gif?raw=true" width="100%" alt="app homepage"/>
