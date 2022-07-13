@@ -98,7 +98,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
       <h3 align="center">Full Stack Interview Prep API</h3>
         <br />
         <a target="_blank" href="https://full-stack-interview-prep.up.railway.app/">
-          <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/fullStackInterviewQuestions.gif?raw=true" width="100%" alt="app homepage"/>
+          <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" width="100%" alt="app homepage"/>
         </a>
         <br />
         <p align="center">
@@ -110,7 +110,7 @@ Once the sun sets, you can find me nursing vintage furniture back to their glory
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>A Full Stack flash card application for behavioral and technical interview questions!</p>
+        <p>A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.</p>
     </td>
   </tr>
 </table>
