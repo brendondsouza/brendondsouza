@@ -28,6 +28,9 @@ As a software engineer, I build full stack web applications for my clients. I ha
 
 Once the sun sets, you can find me nursing vintage furniture back to their glory days and finding them a new forever home where they will be loved. For every piece of furniture I rescue, it means one less piece at the landfill. My superpower is converting trash to treasure, what's yours? </p>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brendondsouza&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
